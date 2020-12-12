@@ -156,7 +156,8 @@ header {
 .top-section {
   margin: 0 auto;
   text-align: center;
-  background-image: url("pic_b006.jpg");
+  background-image: url("yp.jpeg");
+  background-size: cover;
 }
 
 .top-inner {
@@ -210,6 +211,10 @@ header {
   padding-bottom: 50px;
 }
 
+.about-section p {
+  padding: 0% 20%;
+}
+
 #about h4 {
   padding-bottom: 20px;
 }
@@ -249,7 +254,7 @@ header {
 }
 
 .links-box p, h6{
-  text-align: left;
+  text-align: center;
   padding: 0% 20%;
 }
 
